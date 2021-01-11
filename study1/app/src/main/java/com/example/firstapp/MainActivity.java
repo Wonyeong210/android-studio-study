@@ -24,12 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btn_test.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (et_id.getText().toString()=="이원영") {
-                    et_id.setText("내 이름");
-                }
-                else if (et_id.getText().toString()=="32193337") {
-                    et_id.setText("내 학번");
-                }
+                et_id.setText("이원영");
             }
         });
 
