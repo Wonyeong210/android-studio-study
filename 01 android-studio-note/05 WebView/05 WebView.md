@@ -72,4 +72,4 @@ public class MainActivity extends AppCompatActivity {
 
 4. 결과
 
-![05%20WebView%20b387a374fb1d4ef0bd9e16b28b393893/Untitled.png](05%20WebView%20b387a374fb1d4ef0bd9e16b28b393893/Untitled.png)
+[!Untitled](./Untitled.png)
