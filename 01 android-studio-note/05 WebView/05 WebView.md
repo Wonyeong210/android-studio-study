@@ -72,4 +72,4 @@ public class MainActivity extends AppCompatActivity {
 
 4. 결과
 
-[!Untitled](./Untitled.png)
+![Untitled](./Untitled.png)
