@@ -1,6 +1,6 @@
 # 03 ListView
 
-![03%20ListView%208a1c0d5eaaea46d7913d4beefbcbd052/Untitled.png](03%20ListView%208a1c0d5eaaea46d7913d4beefbcbd052/Untitled.png)
+![Untitled](./Untitled.png)
 
 activity_main.xml
 
