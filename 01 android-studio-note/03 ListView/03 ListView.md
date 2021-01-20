@@ -1,6 +1,6 @@
 # 03 ListView
 
-![https://github.com/Wonyeong210/android-studio-study/blob/main/01%20android-studio-note/03%20ListView/Untitled.png]
+![Untitled](./Untitled.png)
 
 activity_main.xml
 
